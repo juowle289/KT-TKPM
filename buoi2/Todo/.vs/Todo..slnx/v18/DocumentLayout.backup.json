@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KT-TKPM\\Todo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C05F0A-BCF0-FE33-BA92-C61650F69036}|Todo.API\\Todo.API.csproj|d:\\kt-tkpm\\todo\\todo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C05F0A-BCF0-FE33-BA92-C61650F69036}|Todo.API\\Todo.API.csproj|solutionrelative:todo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|d:\\kt-tkpm\\todo\\todo.infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|solutionrelative:todo.infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B157E7-533E-4C55-B64A-E7C3DF4E43A8}|Todo.Application\\Todo.Application.csproj|d:\\kt-tkpm\\todo\\todo.application\\service\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B157E7-533E-4C55-B64A-E7C3DF4E43A8}|Todo.Application\\Todo.Application.csproj|solutionrelative:todo.application\\service\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B157E7-533E-4C55-B64A-E7C3DF4E43A8}|Todo.Application\\Todo.Application.csproj|d:\\kt-tkpm\\todo\\todo.application\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B157E7-533E-4C55-B64A-E7C3DF4E43A8}|Todo.Application\\Todo.Application.csproj|solutionrelative:todo.application\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|d:\\kt-tkpm\\todo\\todo.domain\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|d:\\kt-tkpm\\todo\\todo.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|d:\\kt-tkpm\\todo\\todo.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|d:\\kt-tkpm\\todo\\todo.infrastructure\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|solutionrelative:todo.infrastructure\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|d:\\kt-tkpm\\todo\\todo.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|solutionrelative:todo.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B157E7-533E-4C55-B64A-E7C3DF4E43A8}|Todo.Application\\Todo.Application.csproj|d:\\kt-tkpm\\todo\\todo.application\\model\\applicationmodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B157E7-533E-4C55-B64A-E7C3DF4E43A8}|Todo.Application\\Todo.Application.csproj|solutionrelative:todo.application\\model\\applicationmodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|d:\\kt-tkpm\\todo\\todo.domain\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|d:\\kt-tkpm\\todo\\todo.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|solutionrelative:todo.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|d:\\kt-tkpm\\todo\\todo.infrastructure\\model\\infrastructuremodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|solutionrelative:todo.infrastructure\\model\\infrastructuremodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|d:\\kt-tkpm\\todo\\todo.infrastructure\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22906A67-13C5-4F23-BC24-FFB5CBF49325}|Todo.infrastructure\\Todo.infrastructure.csproj|solutionrelative:todo.infrastructure\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B157E7-533E-4C55-B64A-E7C3DF4E43A8}|Todo.Application\\Todo.Application.csproj|d:\\kt-tkpm\\todo\\todo.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B157E7-533E-4C55-B64A-E7C3DF4E43A8}|Todo.Application\\Todo.Application.csproj|solutionrelative:todo.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C05F0A-BCF0-FE33-BA92-C61650F69036}|Todo.API\\Todo.API.csproj|d:\\kt-tkpm\\todo\\todo.api\\todo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B9C05F0A-BCF0-FE33-BA92-C61650F69036}|Todo.API\\Todo.API.csproj|solutionrelative:todo.api\\todo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|d:\\kt-tkpm\\todo\\todo.domain\\todo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{217E1E70-2FD4-4585-A767-66152D3C8024}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\todo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C05F0A-BCF0-FE33-BA92-C61650F69036}|Todo.API\\Todo.API.csproj|d:\\kt-tkpm\\todo\\todo.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C05F0A-BCF0-FE33-BA92-C61650F69036}|Todo.API\\Todo.API.csproj|solutionrelative:todo.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "Todo.Infrastructure\\Repositories\\TodoRepository.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Repositories\\TodoRepository.cs*",
+              "RelativeToolTip": "Todo.Infrastructure\\Repositories\\TodoRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:48:13.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Application\\Service\\TodoService.cs",
+              "RelativeDocumentMoniker": "Todo.Application\\Service\\TodoService.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Application\\Service\\TodoService.cs",
+              "RelativeToolTip": "Todo.Application\\Service\\TodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:24:02.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Repositories\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "Todo.Domain\\Repositories\\ITodoRepository.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Repositories\\ITodoRepository.cs",
+              "RelativeToolTip": "Todo.Domain\\Repositories\\ITodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:00:58.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Todo.Domain\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Todo.Domain\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:40:07.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.API\\Program.cs",
+              "RelativeDocumentMoniker": "Todo.API\\Program.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.API\\Program.cs",
+              "RelativeToolTip": "Todo.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:57:45.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Application\\Service\\ITodoService.cs",
+              "RelativeDocumentMoniker": "Todo.Application\\Service\\ITodoService.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Application\\Service\\ITodoService.cs",
+              "RelativeToolTip": "Todo.Application\\Service\\ITodoService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:26:29.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Todo.Domain\\Class1.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Class1.cs",
+              "RelativeToolTip": "Todo.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:57:20.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Todo.cs",
+              "RelativeDocumentMoniker": "Todo.Infrastructure\\Todo.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Todo.cs",
+              "RelativeToolTip": "Todo.Infrastructure\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:43:02.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Todo.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Todo.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:57:45.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationModules.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Application\\Model\\ApplicationModules.cs",
+              "RelativeDocumentMoniker": "Todo.Application\\Model\\ApplicationModules.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Application\\Model\\ApplicationModules.cs",
+              "RelativeToolTip": "Todo.Application\\Model\\ApplicationModules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:57:45.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Entities\\Todo.cs",
+              "RelativeDocumentMoniker": "Todo.Domain\\Entities\\Todo.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Entities\\Todo.cs",
+              "RelativeToolTip": "Todo.Domain\\Entities\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:42:41.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Todo.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Todo.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:57:45.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InfrastructureModules.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Model\\InfrastructureModules.cs",
+              "RelativeDocumentMoniker": "Todo.Infrastructure\\Model\\InfrastructureModules.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Model\\InfrastructureModules.cs",
+              "RelativeToolTip": "Todo.Infrastructure\\Model\\InfrastructureModules.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:29:26.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Data\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "Todo.Infrastructure\\Data\\TodoDbContext.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Infrastructure\\Data\\TodoDbContext.cs",
+              "RelativeToolTip": "Todo.Infrastructure\\Data\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:27:38.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Todo.Application\\Class1.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Application\\Class1.cs",
+              "RelativeToolTip": "Todo.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:57:45.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Todo.API.csproj",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.API\\Todo.API.csproj",
+              "RelativeDocumentMoniker": "Todo.API\\Todo.API.csproj",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.API\\Todo.API.csproj",
+              "RelativeToolTip": "Todo.API\\Todo.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T18:57:45.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Todo.Domain.csproj",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+              "RelativeDocumentMoniker": "Todo.Domain\\Todo.Domain.csproj",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+              "RelativeToolTip": "Todo.Domain\\Todo.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T18:57:44.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\KT-TKPM\\Todo\\Todo.API\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Todo.API\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\KT-TKPM\\Todo\\Todo.API\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Todo.API\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:57:45.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

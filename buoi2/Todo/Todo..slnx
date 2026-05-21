@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Todo.API/Todo.API.csproj" />
+  <Project Path="Todo.Application/Todo.Application.csproj" Id="79b157e7-533e-4c55-b64a-e7c3df4e43a8" />
+  <Project Path="Todo.Domain/Todo.Domain.csproj" Id="217e1e70-2fd4-4585-a767-66152d3c8024" />
+  <Project Path="Todo.infrastructure/Todo.infrastructure.csproj" DisplayName="Todo.Infrastructure" Id="22906a67-13c5-4f23-bc24-ffb5cbf49325" />
+</Solution>
