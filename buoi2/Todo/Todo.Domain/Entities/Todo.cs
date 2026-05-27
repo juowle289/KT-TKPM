@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// namespace Todo.Infrastructure;
-
-namespace Todo.Domain.Entities;
+namespace Todo.Infrastructure;
 
 public partial class Todo
 {

@@ -1,13 +1,13 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using Todo.Domain.Entities; // Nạp thư mục chứa file Todo.cs của tầng Domain
+using Todo.Infrastructure;
 
 namespace Todo.Domain.Repositories
 {
-    // 1. Trỏ IRepository về đúng Entity của Domain
-    public interface ITodoRepository : IRepository<Todo.Domain.Entities.Todo>
-    {
-        // 2. Đổi kiểu trả về thành danh sách thực thể Todo
-        Task<IEnumerable<Todo.Domain.Entities.Todo>> GetAll();
-    }
+	public interface ITodoRepository : IRepository<Todo.Infrastructure.Todo>
+	{
+	}
 }

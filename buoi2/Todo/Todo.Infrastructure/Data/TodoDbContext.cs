@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Todo.Infrastructure;
 
 namespace Todo.Infrastructure.Data;
 
@@ -17,7 +18,7 @@ public partial class TodoDbContext : DbContext
     {
         modelBuilder.Entity<Todo>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Todos__3214EC07F3C12964");
+            entity.HasKey(e => e.Id).HasName("PK__Todos__3214EC0783E1C8BB");
 
             entity.Property(e => e.IsCompleted).HasDefaultValue(false);
             entity.Property(e => e.Title).HasMaxLength(50);
